@@ -13,5 +13,5 @@ steps:
       command: buildAndPush
       Dockerfile: 'Dockerfile'
       containerRegistry: 'MyDockerHub'
-      repository: 'shaikkhajaibrahim/sample_march2024'
+      repository: 'srikanthreddy48/sample_march2024'
       tags: '$(Build.BuildId)'
